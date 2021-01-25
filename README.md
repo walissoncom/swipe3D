@@ -1,6 +1,6 @@
 # Swipe 3D
 
-Swipe 3D UI animation created for studying purpose.
+Swipe 3D UI animation created for studying purposes.
 
 ## Live Demo
 
